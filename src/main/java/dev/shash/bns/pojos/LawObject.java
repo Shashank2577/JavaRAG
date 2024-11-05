@@ -1,4 +1,4 @@
-package dev.shash.bns;
+package dev.shash.bns.pojos;
 
 import lombok.Getter;
 import lombok.Setter;

@@ -1,4 +1,4 @@
-package dev.shash.bns;
+package dev.shash.bns.service;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
