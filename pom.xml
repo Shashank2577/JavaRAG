@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>dev.shash</groupId>
-	<artifactId>markets</artifactId>
+	<artifactId>bns</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>markets</name>
+	<name>bns</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
